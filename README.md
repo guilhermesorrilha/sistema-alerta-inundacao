@@ -24,6 +24,10 @@ Essa sinalização serve tanto para pessoas que estejam prestes a sair de casa e
 
 A ideia central é fornecer um aviso simples, direto e local, acessível a qualquer pessoa que passe pelo local, mesmo sem acesso à internet ou a tecnologias mais avançadas.
 
+🤖 Protótipo do sistema feito por IA:
+
+<img src="https://github.com/user-attachments/assets/cab3beb7-2dea-46c1-b889-32e2658fb7a5" alt="Protótipo do sistema feito por IA" width="350px">
+
 ---
 
 ## 🧪 Como simular no Wokwi
